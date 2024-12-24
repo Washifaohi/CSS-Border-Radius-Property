@@ -1,0 +1,48 @@
+.containar{
+    background-color: blue;
+    color: black;
+    border-radius: 32px;
+    height: 100px;
+    width: 100px;
+}
+
+.containar1{
+    background-color:blueviolet;
+    color: black;
+    border-radius: 32px 64px;
+    height: 100px;
+    width: 100px;
+}
+
+.containar2{
+    background-color:cornflowerblue;
+    color: black;
+    border-radius: 64px 96px 128px 32px;
+    height: 100px;
+    width: 100px;
+}
+
+.containar3{
+    background-color:brown;
+    color: black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.containar4{
+    background-color:purple;
+    color: black;
+    border-radius: 40% 20%;
+    height: 100px;
+    width: 100px;
+}
+
+.containar5{
+    background-color: rebeccapurple;
+    color: black;
+    border-radius: 32% 15%;
+    height: 100px;
+    width: 100px;
+}
+
